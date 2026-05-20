@@ -1,0 +1,15 @@
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+androguard>=4.1
+networkx>=3.2
+matplotlib>=3.8
+scipy>=1.11
+python-louvain>=0.16
+leidenalg>=0.10
+igraph>=0.11
+google-play-scraper>=1.2
+tqdm>=4.66
+pyyaml>=6.0
