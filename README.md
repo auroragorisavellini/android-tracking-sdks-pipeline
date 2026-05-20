@@ -1,5 +1,7 @@
 # Android Tracking SDK Pipeline
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20313937.svg)](https://doi.org/10.5281/zenodo.20313937)
+
 This repository contains the full reproducible pipeline used to construct a large-scale dataset of Android applications, embedded tracking SDKs, and their corresponding provider companies.
 
 The pipeline combines data from:
@@ -970,7 +972,9 @@ The full pipeline has been tested in Google Colab. All outputs can be regenerate
 
 ## Citation
 
-If you use this dataset or code, please cite the associated *Scientific Data* article.
+If you use this repository, dataset, or derived network files, please cite:
+
+Gori Savellini, A. (2026). *Android Tracking SDK Dataset and Reproducible Pipeline*. Zenodo. https://doi.org/10.5281/zenodo.20313937
 
 ## License
 
