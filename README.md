@@ -18,9 +18,6 @@ This code accompanies the paper submitted to *Scientific Data*.
 android-tracking_sdk-pipeline/
 ├── scripts/
 ├── validation/
-├── network_analysis/
-├── data_raw/
-├── outputs/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
