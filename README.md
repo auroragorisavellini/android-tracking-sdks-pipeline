@@ -26,6 +26,8 @@ android-tracking_sdk-pipeline/
 └── LICENSE
 ```
 
+
+
 ## Table of Contents
 
 - [Repository Structure](#repository-structure)
@@ -57,6 +59,19 @@ android-tracking_sdk-pipeline/
 8. Build network files and projections.
 9. Validate representativeness and internal consistency.
 10. Generate figures and tables for publication.
+    
+
+## Requirements
+
+The pipeline requires Python 3.10 or later.
+
+Install all dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
+The code has been tested in Google Colab and standard Linux environments.
 
 
 ## Scripts
