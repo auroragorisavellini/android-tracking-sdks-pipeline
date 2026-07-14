@@ -12,7 +12,7 @@ The pipeline combines data from:
 
 The resulting outputs include datasets, network files, validation tables and figures, and community detection results.
 
-**If you use this papeline, please cite:**
+**If you use this pipeline, please cite:**
 
 Gori Savellini, A., Squartini, T., & Riccaboni, M. (2026). A large-scale dataset of Android applications and their SDK dependencies. arXiv:2607.02627. https://arxiv.org/abs/2607.02627
 
